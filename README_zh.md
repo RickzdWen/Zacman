@@ -2,6 +2,8 @@
 
 [README](/README.md)
 
+Zacman是从 [Jacman](https://github.com/wuchong/jacman) fork出来的项目，主要是为了搭建本人个人站点做一些必要修改，具体用法与Jacman相同。下面的文档是Jacman的相关文档。
+
 Jacman 是为 [Hexo](http://hexo.io) 设计的一款清新且具有响应式的主题，拥有更丰富的特性并支持了很多的国内服务。Jacman 始于 [Pacman](https://github.com/A-limon/pacman) 修改而来。
 
 **Jacman 现已支持 Hexo 3.0 !**
