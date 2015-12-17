@@ -134,3 +134,8 @@ baidu_search:     ## http://zn.baidu.com/
 tinysou_search:     ## http://tinysou.com/
   enable: false
   id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
+
+swiftype_search:    ## https://swiftype.com
+  enable: false
+  uid:    ## e.g. "-QoGDgxDSC3TH3M3enKL" for your swiftype search id
+  input_id: "st-search-input"   ## id for input field
