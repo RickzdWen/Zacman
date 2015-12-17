@@ -138,4 +138,4 @@ tinysou_search:     ## http://tinysou.com/
 swiftype_search:    ## https://swiftype.com
   enable: false
   uid:    ## e.g. "-QoGDgxDSC3TH3M3enKL" for your swiftype search id
-  input_id: "st-search-input"   ## id for input field
+  input_class: "zacman-search-input"   ## input class for search
